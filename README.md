@@ -1,6 +1,6 @@
 # Serve static files with express.js
 
-[![](https://images.microbadger.com/badges/image/gdml/serve-static.svg)](https://microbadger.com/images/gdml/serve-static.svg "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/gdml/serve-static.svg)](https://microbadger.com/images/gdml/serve-static "Get your own image badge on microbadger.com")
 ![](https://img.shields.io/docker/build/gdml/serve-static.svg) ![](https://img.shields.io/docker/pulls/gdml/serve-static.svg)
 
 
